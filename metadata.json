@@ -1,0 +1,8 @@
+{
+  "name": "- 蝦拼商城",
+  "description": "由 Gemini AI 強力驅動的智慧電商平台",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
